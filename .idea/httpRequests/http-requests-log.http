@@ -1,0 +1,70 @@
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-25T105434.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-25T105417.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2
+
+###
+
+GET http://localhost:8080/get
+
+<> 2023-01-25T105338.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-21T211922.404.json
+
+###
+
+GET http://localhost:8080/add
+
+<> 2023-01-21T211013.404.html
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-21T210634.404.json
+
+###
+
+GET http://localhost:8080/store/order/add?add=1,2,3,4,5
+
+<> 2023-01-21T210626.404.json
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-19T231825.404.json
+
+###
+
+GET http://localhost:8080/store/order/add?add=1,2,3,4,5
+
+<> 2023-01-19T231816.404.json
+
+###
+
