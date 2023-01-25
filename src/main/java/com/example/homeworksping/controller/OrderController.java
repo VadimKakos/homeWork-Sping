@@ -20,13 +20,13 @@ public class OrderController {
     }
 
 
-    @GetMapping("/add")
+    @GetMapping("store/order/add")
     public void add(@RequestParam("id") List<Integer> ids) {
         this.cartService.addToCart(ids);
     }
 
 
-    @GetMapping("/get")
+    @GetMapping("store/order/get")
     public List<Integer> get() {
         return this.cartService.getCart();
 
